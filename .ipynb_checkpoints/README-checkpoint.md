@@ -4,6 +4,11 @@ The goal of the project is to predict the existence of a heart disease based off
 
 This project used the conda_mxnet_p36 kernel environment provided by AWS Sagemaker. The model uses ml.t2.medium instance for running its training job.
 
+## Usage
+The exploration notebook describes my data exploration, visualization while also highlighting the prospect of different models
+
+The sm-models notebook is the final result with the end model and the test cases
+
 ## Authors
 
 -   **Mehul Gawde** 
